@@ -1,0 +1,23 @@
+.general{
+    margin: 0 auto;
+    width: 510px;
+    
+}
+table{
+    height: 200px;
+}
+td {
+    padding: 20px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+
+    
+  }
+.casexc{
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    margin-left: -10px;
+    width: 220px;
+}
+ 
